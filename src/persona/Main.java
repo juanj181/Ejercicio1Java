@@ -31,7 +31,7 @@ public class Main {
         personas.add(persona2);
         personas.add(persona3);
         
-        
+        //cacaculopis
         mapPersonas.put(persona1.getDni(),persona1);
         mapPersonas.put(persona2.getDni(),persona2);
         mapPersonas.put(persona3.getDni(),persona3);
